@@ -1,2 +1,2 @@
-# Google_Foobar
+# Google Foobar
 My journey in the Google Footer challenge
